@@ -1,0 +1,6 @@
+name: mbsi-mtgr-nltk-demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - nltk
